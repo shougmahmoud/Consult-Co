@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    width: 100%;
+    height: 100vh;
+    background-image: url(Neon\ Yellow\ Photocentric\ Blogger\ Bio\ Link\ Website.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.orange li a {
+    background-color: #ff4500;
+    padding: 0px 10px;
+    border-radius: 25px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 23px;
+    padding: 0% 3%;
+}
+
+.nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.tit {
+    font-size: 50px;
+}
+
+.tex {
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+.tt {
+    margin-top: 10%;
+    margin-right: 35%;
+    text-align: center;
+}
+
+.bot a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px 50px;
+    color: black;
+}
+
+.bot {
+    margin-top: 5%;
+}
+
+.orange {
+    color: #ff4500;
+}
